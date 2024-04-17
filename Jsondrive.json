@@ -1,0 +1,14 @@
+{
+
+  "admob_app_id": "",
+  "admob_banner": "",
+  "admob_interstitial": "",
+
+  "unity_app_id": "",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+
+  "appLovin_app_id": "",
+  "appLovin_banner": "e9a50f65cbdc71a8",
+  "appLovin_interstitial": "afb94e2d87b8332p"
+}
