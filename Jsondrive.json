@@ -1,8 +1,8 @@
 {
 
-  "admob_app_id": "",
-  "admob_banner": "",
-  "admob_interstitial": "",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
 
   "unity_app_id": "",
   "unity_banner": "Banner_Android",
